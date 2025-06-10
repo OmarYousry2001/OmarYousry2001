@@ -29,9 +29,7 @@
 
 ###
 
-<marquee behavior="scroll" direction="left" scrollamount="5">
-  I'm omar yousry from Egypt<br><br>- 🔭 I’m working as .net developer
-</marquee>
+<p align="left">I'm omar yousry from Egypt<br><br>- 🔭 I’m working as .net developer</p>
 
 ###
 
