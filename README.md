@@ -68,7 +68,6 @@
 
 ---
 
-### 📊 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmarYousry2001/OmarYousry2001/output/pacman-contribution-graph-dark.svg">
@@ -76,6 +75,3 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OmarYousry2001/OmarYousry2001/output/pacman-contribution-graph.svg">
 </picture>
 
-<div align="center">
-  <img width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/2e6c10c4-752d-44cd-b8fe-685ee6c73f8d" />
-</div>
