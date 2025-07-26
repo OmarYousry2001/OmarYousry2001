@@ -28,16 +28,11 @@
 ---
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?weight=900&size=30&duration=4000&color=1F42E4&center=true&vCenter=true&lines=Hi%2C+I'm+Omar+Yousry+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?weight=900&size=30&duration=4000&color=1F42E4&center=true&vCenter=true&lines=Hi%2C+I'm+Omar+Yousry+%F0%9F%91%8B+%F0%9F%9A%80+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
 
----
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?weight=900&size=30&duration=4000&color=1F42E4&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Omar+Yousry+%F0%9F%91%8B;.NET+Developer+%F0%9F%92%BB;Angular+%26+Blazor+Enthusiast+%F0%9F%9A%80;Clean+Architecture+Lover+%F0%9F%A7%A0" alt="Typing SVG" />
-</h1>
 
----
 
 ### 👨‍💻 About Me
 
