@@ -7,7 +7,9 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
-
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="150" />
+</div>
 
 
 <div align="center">
@@ -44,7 +46,6 @@
 - 💼 Currently working as a passionate **.NET Developer**, building web applications using **ASP.NET Core**, **Entity Framework**, and **Blazor**  
 - 🌐 I also develop modern front-end apps using **Angular**, **TypeScript**, and **Bootstrap 5**  
 - 🧠 I follow clean architecture principles and apply design patterns like **Repository**, **Unit of Work**  
-- 🚀 I’ve built full-stack projects like **Cinema Ticket Booking System** and **Ecommerce Platforms**  
 - 💡 I have a strong understanding of **Angular**, and I build dynamic front-end applications using its core features such as **routing**, **reactive forms**, **interceptors**, and **lazy loading**  
 - 📫 You can reach me at: **omarsunbati@gmail.com**
 
@@ -61,6 +62,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sqlserver" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular" />
 </div>
 
 ---
