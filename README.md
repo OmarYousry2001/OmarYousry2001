@@ -59,9 +59,10 @@
 
 ### 🔥 My Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=OmarYousry2001&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?weight=900&size=30&duration=4000&color=1F42E4&center=true&vCenter=true&lines=Hi%2C+I'm+Omar+Yousry+%F0%9F%91%8B+%F0%9F%9A%80+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+</h1>
+
 
 ---
 
