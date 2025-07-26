@@ -27,9 +27,9 @@
 
 ---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=OmarYousry2001.OmarYousry2001" />
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?weight=900&size=30&duration=4000&color=1F42E4&center=true&vCenter=true&lines=Hi%2C+I'm+Omar+Yousry+%F0%9F%91%8B" alt="Typing SVG" />
+</h1>
 
 ---
 
