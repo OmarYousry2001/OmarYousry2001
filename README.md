@@ -1,8 +1,14 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?weight=900&size=30&duration=4000&color=1F42E4&center=true&vCenter=true&lines=Hi%2C+I'm+Omar+Yousry+%F0%9F%91%8B+%F0%9F%9A%80+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+</h1>
+
+---
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
----
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/omar-yousry-611546275">
@@ -27,9 +33,6 @@
 
 ---
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?weight=900&size=30&duration=4000&color=1F42E4&center=true&vCenter=true&lines=Hi%2C+I'm+Omar+Yousry+%F0%9F%91%8B+%F0%9F%9A%80+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
-</h1>
 
 
 
@@ -57,14 +60,10 @@
 
 ---
 
-### 🔥 My Stats
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?weight=900&size=30&duration=4000&color=1F42E4&center=true&vCenter=true&lines=Hi%2C+I'm+Omar+Yousry+%F0%9F%91%8B+%F0%9F%9A%80+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
-</h1>
 
 
----
+
+
 
 
 <picture>
