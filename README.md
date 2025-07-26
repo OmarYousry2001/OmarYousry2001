@@ -39,10 +39,15 @@
 
 ### 👨‍💻 About Me
 
-- 🇪🇬 I'm Omar Yousry from Egypt  
-- 💼 I’m currently working as a **.NET Developer**
+- 🇪🇬 I'm Omar Yousry from Cairo, Egypt  
+- 🎓 I studied Management Information Systems at the Institute of Specific Studies  
+- 💼 Currently working as a passionate **.NET Developer**, building web applications using **ASP.NET Core**, **Entity Framework**, and **Blazor**  
+- 🌐 I also develop modern front-end apps using **Angular**, **TypeScript**, and **Bootstrap 5**  
+- 🧠 I follow clean architecture principles and apply design patterns like **Repository**, **Unit of Work**  
+- 🚀 I’ve built full-stack projects like **Cinema Ticket Booking System** and **Ecommerce Platforms**  
+- 💡 I have a strong understanding of **Angular**, and I build dynamic front-end applications using its core features such as **routing**, **reactive forms**, **interceptors**, and **lazy loading**  
+- 📫 You can reach me at: **omarsunbati@gmail.com**
 
----
 
 ### 🛠️ Languages & Tools
 
